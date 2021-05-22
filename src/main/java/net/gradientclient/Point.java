@@ -1,3 +1,4 @@
+package Points;
 class Point{
 	int x;
 	int y;
